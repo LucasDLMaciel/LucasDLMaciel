@@ -10,7 +10,7 @@
 <h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Degree</h2>
 <div>
   <p>
-I am studying Computer Sciences in Federal University  of São João Del Rei, Minas Gerais 
+I am studying Computer Sciences in Federal University of São João Del Rei, Minas Gerais.
   </p>
     <img align="center" alt="ufsj" height="40" width="40" src="https://ufsj.edu.br/temaversao5/imagens/ufsj-logo.png">
 </div>
