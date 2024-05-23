@@ -1,6 +1,6 @@
 ## Hi there, I am Lucas Daniel👋
 - I am "belorizontino", therefore I was born in Belo Horizonte, Minas Gerais, Brazil.
-- I am fluent in Portugues Brasileiro and intermediary in english.
+- I am fluent in Brazilian Portuguese and intermediary in english.
 - I am 18 years old.
 <div>
   <a href ="github.com/LucasDLMaciel">
