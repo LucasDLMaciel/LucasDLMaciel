@@ -1,6 +1,6 @@
 ## Hi there, I am Lucas Daniel👋
 
-- I am belorizontino, therefore I was born in Belo Horizonte, Minas Gerais, Brazil.
+- I am "belorizontino", therefore I was born in Belo Horizonte, Minas Gerais, Brazil.
 - I am studying Computer Sciences in Federal University São João Del Rei, Minas Gerais <img align="center" alt="ufsj" height="40" width="40" src="https://ufsj.edu.br/temaversao5/imagens/ufsj-logo.png">
 - My english is intermediary.
 - I am 18 years old.
