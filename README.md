@@ -6,7 +6,7 @@
 <div>
   <a href ="github.com/LucasDLMaciel">
   <img align= "center" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LucasDLMaciel&theme=dark&show_icons=true">
-  <img align= "center" width = "auto" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDLMaciel&layout=compact&theme=dark">
+  <img align= "center" width = "450" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDLMaciel&layout=compact&theme=dark">
 </div>
     
 <h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Languages</h2>
