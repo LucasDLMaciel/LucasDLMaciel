@@ -1,5 +1,4 @@
 ## Hi there, I am Lucas Daniel👋
-
 - I am "belorizontino", therefore I was born in Belo Horizonte, Minas Gerais, Brazil.
 - I am studying Computer Sciences in Federal University São João Del Rei, Minas Gerais <!--<img align="center" alt="ufsj" height="40" width="40" src="https://ufsj.edu.br/temaversao5/imagens/ufsj-logo.png">-->
 - My english is intermediary.
@@ -7,7 +6,7 @@
 <div>
   <a href ="github.com/LucasDLMaciel">
   <img align= "center" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LucasDLMaciel&theme=dark&show_icons=true">
-  <img align= "center" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDLMaciel&layout=compact&theme=dark">
+  <img align= "center" width = "auto" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDLMaciel&layout=compact&theme=dark">
 </div>
     
 <h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Languages</h2>
