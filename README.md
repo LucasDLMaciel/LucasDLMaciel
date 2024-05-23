@@ -1,16 +1,24 @@
 ## Hi there, I am Lucas Daniel👋
 - I am "belorizontino", therefore I was born in Belo Horizonte, Minas Gerais, Brazil.
-- I am studying Computer Sciences in Federal University São João Del Rei, Minas Gerais <!--<img align="center" alt="ufsj" height="40" width="40" src="https://ufsj.edu.br/temaversao5/imagens/ufsj-logo.png">-->
-- My english is intermediary.
+- I am fluent in Portugues Brasileiro and intermediary in english.
 - I am 18 years old.
 <div>
   <a href ="github.com/LucasDLMaciel">
   <img align= "center" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LucasDLMaciel&theme=dark&show_icons=true">
 </div>
+
+<h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Degree</h2>
+<div>
+  <p>
+I am studying Computer Sciences in Federal University  of São João Del Rei, Minas Gerais 
+  </p>
+    <img align="center" alt="ufsj" height="40" width="40" src="https://ufsj.edu.br/temaversao5/imagens/ufsj-logo.png">
+</div>
     
 <h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Languages</h2>
 <div>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">      
 </div>
 
 <h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Learning</h2>
@@ -20,7 +28,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
 <h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Social Media</h2>
