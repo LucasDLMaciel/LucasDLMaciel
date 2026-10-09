@@ -95,7 +95,10 @@ The repositories below are collaborative projects I have access to. My specific 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasDLMaciel/LucasDLMaciel/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/LucasDLMaciel/LucasDLMaciel/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 ---
