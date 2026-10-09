@@ -1,4 +1,4 @@
-# Hi, I'm Lucas Daniel Maciel 👋
+# Hi, I'm Lucas Daniel Lana Maciel 👋
 
 <div align="center">
 
@@ -30,12 +30,6 @@ A pixel-art **Metroidvania/Soulslike** developed for the Game Design and Develop
 
 **Focus:** Godot · GDScript · Game development  
 [🎮 View releases](https://github.com/LucasDLMaciel/Cuckold-Knight/releases)
-
-### 📰 [Chamados-MGI](https://github.com/LucasDLMaciel/Chamados-MGI)
-
-A collaborative project related to an MGI ticket-management system. This work is also connected to a **research paper planned for publication at WebMedia**, bringing together software development and academic research. Publication details will be added when they are publicly available.
-
-**Focus:** Collaborative development · Research · Technical writing
 
 ### 🎮 [tp_jogo](https://github.com/LucasDLMaciel/tp_jogo)
 
@@ -96,6 +90,12 @@ The repositories below are collaborative projects I have access to. My specific 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDLMaciel&show_icons=true&theme=tokyonight&hide_border=true" alt="Lucas's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDLMaciel&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucasDLMaciel/LucasDLMaciel/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ---
