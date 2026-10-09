@@ -1,44 +1,73 @@
-## Hi there, I am Lucas Daniel👋
-- I am "belorizontino", therefore I was born in Belo Horizonte, Minas Gerais, Brazil.
-- I am fluent in Brazilian Portuguese and intermediary in english.
-- I am 18 years old.
-<div>
-  <a href ="github.com/LucasDLMaciel">
-  <img align= "center" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LucasDLMaciel&theme=dark&show_icons=true">
-</div>
+Hi, I'm Lucas Daniel Maciel 👋
+<div align="center">
 
-<h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Degree</h2>
-<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=650&lines=Computer+Science+student+at+UFSJ;Learning+by+building+projects;Software+and+game+development" alt="Typing introduction" />
+
   <p>
-I am studying Computer Sciences in Federal University of São João Del Rei, Minas Gerais.
+    <a href="https://github.com/LucasDLMaciel"><img src="https://img.shields.io/badge/GitHub-LucasDLMaciel-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+    <a href="https://www.linkedin.com/in/lucas-daniel-lana-maciel-401570217/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:lucasdmaciel12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-    <img align="center" alt="ufsj" height="40" width="40" src="https://ufsj.edu.br/temaversao5/imagens/ufsj-logo.png">
-</div>
-    
-<h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Languages</h2>
-<div>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">      
+
 </div>
 
-<h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Learning</h2>
-<div>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+👨‍💻 About me
+I'm a Computer Science student at the Federal University of São João del-Rei (UFSJ), in Minas Gerais, Brazil. I enjoy learning by building projects, exploring how software works, and collaborating with people who share the same curiosity.
+- 🎓 Computer Science student at UFSJ
+- 🇧🇷 From Belo Horizonte, Minas Gerais, Brazil
+- 💻 Interested in software development, algorithms, web technologies, and game development
+- 🤝 I enjoy collaborative projects and learning from other developers
+- 🌱 Always learning, experimenting, and improving
+🚀 Featured projects
+⚔️ Cuckold Knight
+A pixel-art Metroidvania/Soulslike developed for the Game Design and Development course taught by Professor Daniel Madeira. Built by Lucas and Nicolas, with friends contributing artwork, music, assets, feedback, and support. Features challenging enemies, pogo mechanics, secret healing, and two difficult bosses.
+Focus: Godot · GDScript · Game development
+🎮 View releases
+📰 Chamados-MGI
+A collaborative project related to an MGI ticket-management system. This work is also connected to a research paper planned for publication at WebMedia, bringing together software development and academic research. Publication details will be added when they are publicly available.
+Focus: Collaborative development · Research · Technical writing
+🎮 tp_jogo
+A 2D game inspired by Berzerk, developed as a final project for the Algorithms and Data Structures I course.
+Focus: C · Algorithms and data structures · Game logic
+🎬 TrabalhoAPS
+An IMDb-inspired project focused on games, developed as an academic assignment.
+Focus: Application development · Data organization
+🧠 Compilador
+A compiler project exploring language processing and the foundations of compiler construction.
+Focus: Compilers · Programming languages
+🌐 HTML Portfolio
+A personal portfolio project created while practicing web development.
+Focus: HTML · CSS · Web development
+📚 HTML Projeto — Sumário
+A web development bootcamp project focused on building a table-of-contents page.
+Focus: HTML · Web development
+🤝 Collaborative projects
+The repositories below are collaborative projects I have access to. My specific contributions vary between projects, so check each repository for its implementation and contributor history.
+- Algoritmos-Bioinspirados — implementations and experiments related to bio-inspired algorithms.
+- MC-mini_challenge_1 — collaborative mini-challenge project.
+- APL2-LIBRAS — facial-landmark analysis exploring non-manual expressions in Brazilian Sign Language (LIBRAS) with MediaPipe Face Mesh.
+- pave-pipeline — collaborative web application / pipeline project.
+- chamados-MGI — collaborative version of the MGI ticket-management project.
+🛠️ Technologies
+<div align="center">
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="Godot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 </div>
 
-<h2 data-sourcepos="1:1-1:34" class="heading-element" dir="auto">Social Media</h2>
+📊 GitHub stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDLMaciel&show_icons=true&theme=tokyonight&hide_border=true" alt="Lucas's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDLMaciel&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
 
-<div>
-  <a href = "https://www.linkedin.com/in/lucas-daniel-lana-maciel-401570217/">
-    <img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-    <a href = "https://www.instagram.com/hanibas_/">
-    <img  src="https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="mailto:lucasdmaciel12@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<div align="center">
+
+Learning, building, and improving one project at a time.
 </div>
